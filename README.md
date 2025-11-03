@@ -1,4 +1,4 @@
-# TermSnap
+# TermSnappopo
 
 Imagine taking multiple screenshots of your terminal output for your assignment. Sounds tedious, doesn't it? Well, it is.
 
